@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Taller1</string>
+    <string name="app_name">The Countries APP</string>
+    <string name="region_selector">Select a region:</string>
+    <string name="countries_button">List the countries</string>
+    <string-array name="country_list">
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
 </resources>
