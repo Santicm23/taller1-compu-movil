@@ -3,7 +3,6 @@ package com.example.taller1
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.AdapterView
 import android.widget.Button
 import android.widget.Spinner
 import com.example.taller1.databinding.ActivityMainBinding
