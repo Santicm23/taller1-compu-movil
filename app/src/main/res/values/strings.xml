@@ -9,4 +9,5 @@
         <item>Europe</item>
         <item>Oceania</item>
     </string-array>
+    <string name="countries_title">List of countries</string>
 </resources>
