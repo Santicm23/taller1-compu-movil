@@ -10,4 +10,5 @@
         <item>Oceania</item>
     </string-array>
     <string name="floating_btn_desc">Call some one in the country</string>
+    <string name="flag_desc">Country flag image</string>
 </resources>

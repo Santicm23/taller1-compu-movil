@@ -11,8 +11,8 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
-    lateinit var regionSpinner: Spinner
-    lateinit var countriesButton: Button
+    private lateinit var regionSpinner: Spinner
+    private lateinit var countriesButton: Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
